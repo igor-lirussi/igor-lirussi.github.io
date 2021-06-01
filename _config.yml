@@ -1,6 +1,6 @@
 title: Igor Lirussi
 logo: https://avatars.githubusercontent.com/u/69794393?v=4
 description: My first try building a website with GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
